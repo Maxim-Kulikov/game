@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\game\game\game\Source.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\game\game\game\Source.cpp(67,9): warning C4101: c: неиспользованная локальная переменная
+  game.vcxproj -> D:\game\game\Debug\game.exe
